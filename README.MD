@@ -1,6 +1,6 @@
 ![Logo do projeto](https://github.com/ThiagoMendes92/primeiroProjeto/blob/main/readme_images/logo.png)
  
-## Primeiro_projeto
+## Primeiro Projeto
  
 Ola, mundo!
 Meu primeiro passo no mundo Dev, primeira pagina web feita em aula do curso de desenvolvimento web - Udemy. 
