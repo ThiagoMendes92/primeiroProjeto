@@ -1,62 +1,61 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+![Logo of the project](https://i.ibb.co/NSKtqP8/logo.png)
+ 
+## Primeiro_projeto
+ 
+... Description
+ 
+ 
+## Tecnologia 
+ 
+Aqui estão as tecnologias usadas neste projeto.
+ 
+* HTML basic
+* CSS basic
+ 
+ 
+## Serviços Usados
+ 
+* Github
+ 
+ 
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UNES - Página Principal</title>
-</head>
-
-<body background="img/fundo.png">
-
-    <table border="0" width="900" align="center">
-
-        <tr>
-            <td height="89"><img src="img/logo.png"></td>
-            <td align="right">
-                <a href="">Home</a> |
-                <a href="quem-somos.html">Quem somos</a> |
-                <a href="contato.html">Contato</a>
-            </td>
-        </tr>
-
-        <tr>
-            <td colspan="2">
-                <img src="img/capa.png">
-            </td>
-        </tr>
-
-        <tr>
-            <td colspan="2">
-
-                <h2> Sobre a universidade</h2>
-                <p>
-                    Lorem <strong>ipsum dolor</strong> sit <em>amet</em>, consectetur adipiscing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-                </p><br><br>
-                <p>
-                    Lorem <strong>ipsum dolor</strong> sit <em>amet</em>, consectetur adipiscing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-                </p>
-            </td>
-        </tr>
-
-        <tr>
-            <td colspan="2" align="center">
-                <h4>Todos os direitos reservados</h4>
-            </td>
-
-        </tr>
-
-    </table>
-
-</body>
-
-</html>
+## Getting started
+ 
+* To install gems:
+>    $ bundle install
+* To create the bank and do as migrations:
+>    $ rake db:create db:migrate db:seed
+* To run the project:
+>    $ rails s
+ 
+## How to use
+ 
+Here will be the images and descriptions. Principal content.
+ 
+ 
+## Features
+ 
+  - Here will be the features.
+ 
+ 
+## Links
+ 
+  - Link of deployed application: (if has been deployed)
+  - Repository: https://link_of_repository
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      YOUR EMAIL directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
+ 
+ 
+## Versioning
+ 
+1.0.0.0
+ 
+ 
+## Authors
+ 
+* **Thiago Mendes**: @ThiagoMendes92 (https://github.com/ThiagoMendes92)
+ 
+ 
+Por favor, siga meu github e junte-se a nós!
+Obrigado por me visitar e boa codificação!
