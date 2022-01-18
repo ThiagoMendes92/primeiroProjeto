@@ -1,8 +1,9 @@
-![Logo of the project](https://i.ibb.co/NSKtqP8/logo.png)
+![Logo do projeto](https://github.com/ThiagoMendes92/primeiroProjeto/blob/main/readme_images/logo.png)
  
 ## Primeiro_projeto
  
-... Description
+Ola, mundo!
+Meu primeiro passo no mundo Dev, primeira pagina web feita em aula do curso de desenvolvimento web - Udemy. 
  
  
 ## Tecnologia 
@@ -19,40 +20,20 @@ Aqui estão as tecnologias usadas neste projeto.
  
  
 
-## Getting started
+
+## Imagem
  
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
+![Home](https://github.com/ThiagoMendes92/primeiroProjeto/blob/main/readme_images/projeto.png)
  
  
-## Features
- 
-  - Here will be the features.
- 
- 
+
 ## Links
  
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Repositorio: https://github.com/ThiagoMendes92/primeiroProjeto
  
  
-## Versioning
- 
-1.0.0.0
- 
- 
-## Authors
+
+## Autor
  
 * **Thiago Mendes**: @ThiagoMendes92 (https://github.com/ThiagoMendes92)
  
